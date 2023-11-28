@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there! 👋
+I'm Xoel González, a Computer Science student nearing the completion of my degree at the University of A Coruña (UDC). I'm currently focusing on the field of computing.
+- 😄 Pronouns: He/him
 <!--
 **xoelgonzalezp/xoelgonzalezp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +12,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
