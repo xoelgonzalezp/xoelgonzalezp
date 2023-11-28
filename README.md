@@ -1,5 +1,5 @@
 ### Hey there! 😄
-I'm Xoel González, a Computer Science student nearing the completion of my degree at the University of A Coruña (UDC). I'm currently focusing on the field of computing.
+I'm Xoel González, a Computer Science student nearing the completion of my degree at University of A Coruña (UDC). I'm currently focusing on the field of computing.
 - Pronouns: He/him
 <!--
 **xoelgonzalezp/xoelgonzalezp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
